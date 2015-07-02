@@ -11,4 +11,3 @@ You can deploy this app to Heroku and have it up and running instantly.
 
 
 
-"I'm the one who knocks!"
