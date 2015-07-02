@@ -12,7 +12,7 @@
         <td bgcolor="#7C868D" height="150" width="100%">
           <table align="center" width="100%">
             <tr>
-              <td align="left"><img src="http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/SFMC_logo.png" style="width: 50%;"></td>
+              <td align="left"><img src="http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/SFMC_logo.png" style="width: 50%, height: 80%;"></td>
             </tr>
           </table>
         </td>
@@ -46,7 +46,7 @@
       </tr>
       
       <tr>
-        <td align="center"><br>For step-by-step instructions on creating a Salesforce Marketing Cloud's ClientID/ClientSecret and API Key, please visit:</td>
+        <td align="center"><br>For step-by-step instructions on creating a Salesforce Marketing Cloud's ClientID/ClientSecret and API Key, you can check out our code@ website:</td>
       </tr>
       
       <tr>
