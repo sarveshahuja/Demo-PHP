@@ -12,7 +12,7 @@
         <td bgcolor="#7C868D" height="150" width="100%">
           <table align="center" width="100%">
             <tr>
-              <td align="left"><img src="http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/SFMC_logo.png" style="width: 50%; height: 80%"></td>
+              <td align="left"><img src="http://image.s6.exacttarget.com/lib/fe9112727360007b77/m/1/SFMC_logo.png" style="width: 50%;"></td>
             </tr>
           </table>
         </td>
